@@ -16,7 +16,7 @@
                 "data": {
                     "api_key": "API Key"
                 },
-                "description": "Please enter the API key obtained from ecobee.com.",
+                "description": "Please enter the API key obtained from ecobee.com. Trim whitespace from the key first, and you'll need to be an Ecobee developer. For details see https://www.home-assistant.io/integrations/ecobee/",
                 "title": "ecobee API key"
             }
         }
